@@ -1,6 +1,6 @@
 # Exercise-07-Multiplexer-and-De-multiplexer
 ## AIM: 
-To implement 4 X1 multiplexer and 1X4 de multiplexer using verilog and validate its outputs
+To implement 4X1 Multiplexer and 1X4 Demultiplexer using verilog and validate its outputs
 ## HARDWARE REQUIRED:  
 – PC, Cyclone II , USB flasher
 ## SOFTWARE REQUIRED:   
