@@ -98,7 +98,7 @@ endmodule
 ![](multiplexertruthtable.png)
 
 ## PROGRAM 
-Program for 1X4 Deultiplexer and verify its truth table in quartus using Verilog programming.
+Program for 1X4 Demultiplexer and verify its truth table in quartus using Verilog programming.
 
 Program Developed by : Shrruthilaya G
 
@@ -106,7 +106,7 @@ Register Number: 212221230097
 
 DEMULTIPLEXER:
 ```
-module demux(I,S0,S1,Y0,Y1,Y2,Y3);
+module shru(I,S0,S1,Y0,Y1,Y2,Y3);
 input I,S0,S1;
 output Y0,Y1,Y2,Y3;
 wire S0C,S1C;
